@@ -73,4 +73,3 @@ Jika ada pertanyaan atau saran, jangan ragu untuk menghubungi saya melalui email
 ---
 
 ⭐ Jangan lupa untuk memberi **bintang** pada repository ini jika Anda merasa proyek ini bermanfaat!
-```
