@@ -1,6 +1,3 @@
-Berikut adalah contoh README yang lebih menarik dan terorganisir untuk proyek GitHub Anda:
-
-```markdown
 # 📝 Ujian Pweb
 
 Proyek ini dibuat sebagai bagian dari **Ujian Pweb**. Proyek ini terdiri dari dua bagian utama: frontend dan backend, yang dibangun menggunakan teknologi modern untuk memberikan performa terbaik.
