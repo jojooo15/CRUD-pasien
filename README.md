@@ -74,14 +74,3 @@ Jika ada pertanyaan atau saran, jangan ragu untuk menghubungi saya melalui email
 
 ⭐ Jangan lupa untuk memberi **bintang** pada repository ini jika Anda merasa proyek ini bermanfaat!
 ```
-
-### Penjelasan
-1. **Header yang Menarik**: Menggunakan emoji untuk membuat README lebih menarik.
-2. **Bagian Teknologi**: Menjelaskan stack teknologi yang digunakan dengan singkat.
-3. **Struktur Proyek**: Memberikan gambaran folder dan file utama.
-4. **Petunjuk Menjalankan**: Memberikan langkah-langkah jelas untuk menjalankan proyek.
-5. **Fitur Utama**: Menjelaskan fitur-fitur yang ada.
-6. **Cuplikan Layar**: Menambahkan gambar atau GIF demo agar lebih menarik.
-7. **Ajakan Berbintang**: Mengajak pengguna untuk memberi bintang pada repository.
-
-Tambahkan cuplikan layar atau penjelasan tambahan sesuai kebutuhan agar README Anda semakin informatif!
