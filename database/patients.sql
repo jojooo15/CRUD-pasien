@@ -1,0 +1,7 @@
+CREATE TABLE patients (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    status VARCHAR(255),
+    diagnosis TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
